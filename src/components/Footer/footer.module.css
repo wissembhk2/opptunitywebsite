@@ -1,0 +1,12 @@
+.bg {
+    margin-top: 10%;
+    background-image: url('./assets/bg.png');
+    background-size: cover;
+    /* Ensures the background covers the entire div */
+    background-position: center;
+    /* Centers the background in the div */
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}

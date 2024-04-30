@@ -1,0 +1,25 @@
+.connector {
+    position: relative;
+    width: 100%;
+}
+
+.connector-line {
+    border-top: 2px dotted #000;
+    height: 20px;
+    /* Adjust the height of the vertical part */
+    width: 100%;
+}
+
+.connector-end {
+    border-left: 2px dotted #000;
+    height: 100%;
+    /* This will stretch down to the next step */
+    position: absolute;
+    top: 20px;
+    /* Adjust this to match the vertical part's height */
+    left: 0;
+}
+
+.connector-last .connector-end {
+    /* Hide the vertical part on the last connector */
+}

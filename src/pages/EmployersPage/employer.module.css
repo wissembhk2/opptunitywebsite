@@ -1,0 +1,70 @@
+.match {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.partnersband {
+    background-color: #F7F8FB;
+    margin-top: 10%;
+}
+
+.faces {
+    width: 10%;
+}
+
+.rev {
+    margin-top: 10%;
+    color: #22364F;
+    width: 50%;
+    font-size: 40px;
+}
+
+.employers {
+    margin-top: 10%;
+}
+
+.quotes {
+    background-image: url('./assets/quotes-bg-2.png');
+    background-size: cover;
+    /* Ensures the background covers the entire div */
+    background-position: center;
+    /* Centers the background in the div */
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-left: 10%;
+    padding-top: 5%;
+    color: white;
+    padding-bottom: 5%;
+}
+
+.quotestitle {
+
+    margin-bottom: 10%;
+}
+
+.composent {
+    width: 20%;
+    margin-right: 3%;
+    padding: 1%;
+}
+
+.composent1 {
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    /* Shadow settings */
+    border-radius: 8px;
+}
+
+.waitlist {
+    margin-left: 25%;
+    padding-bottom: 5%;
+}
+
+.textarea {
+    height: 100px !important;
+}
+
+.sendmessage {
+    margin-top: 3%;
+    margin-left: 37.5%;
+}

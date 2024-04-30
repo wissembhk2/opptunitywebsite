@@ -1,0 +1,41 @@
+.step {
+    /* Align items to the left for horizontal layout */
+
+    /* Space between steps and connectors */
+}
+
+.stepimpair {
+    border-right: dotted 2px #000;
+    border-bottom: dotted 2px #000;
+    padding-right: 30%;
+
+
+}
+
+.steppair {
+    border-bottom: dotted 2px #000;
+    border-left: dotted 2px #000;
+    padding-left: 30%;
+
+
+}
+
+.step-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.step-number {
+    /* Styling to match your design */
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.step-title {
+    /* Match the font and size to your design */
+}
+
+.step-description {
+    /* Match the font and size to your design */
+}

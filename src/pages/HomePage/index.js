@@ -9,7 +9,7 @@ import comp2 from './assets/component2.png'
 import loop from './assets/loop.png'
 import education from './assets/education.png'
 import world from './assets/world.png'
-import woman from './assets/woman.svg'
+import woman from './assets/woman.png'
 import Footer from "../../components/Footer";
 
 

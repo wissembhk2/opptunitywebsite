@@ -15,9 +15,9 @@ function Footer() {
                     </div>
                     <div className="col-12 col-md-2">
                         <h3>Opportunities</h3>
-                        <p>Start a new life in Canada</p>
-                        <p>Hire abroad effortlessly</p>
-                        <p>Become a provider</p>
+                        <p>Upskill your workforce</p>
+                        <p>Hire  effortlessly</p>
+                        <p>Partner with us</p>
                     </div>
                     <div className="col-12 col-md-2">
                         <h3>About us</h3>
